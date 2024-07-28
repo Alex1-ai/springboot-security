@@ -1,0 +1,10 @@
+POST http://localhost:8080/api/v1/auth/authenticate
+Content-Type: application/json
+
+{
+    "email": "alexis@gmail.com",
+    "password": "1234567"
+}
+
+
+# "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbGV4aXNAZ21haWwuY29tIiwiaWF0IjoxNzIyMTc5ODI5LCJleHAiOjE3MjIxODEyNjl9.4Bp9zBKrJFo1Z0xuafsysvrdSeSXb3c4Fau4MUym9qM
